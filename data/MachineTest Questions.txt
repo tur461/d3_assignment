@@ -1,0 +1,15 @@
+Machine Test (Total 3 Questions):(Max Time 8 hrs) use d3js to create graphs.
+
+1. Create a analysis "Analysis_by_Region_Country" with the json data provided,
+user should be able to toggle between revenue and tickets sold data with zooming into region----> country.
+Graph used is zoomable treemap. Use the attached image as reference.
+
+2. Performance Analysis aims to analyse the various KPIs like yield,revenue etc on y-axis by time, with a filter of airline. 
+Chart type Line chart. Use the attached image as reference.
+
+3.Top_Performers_by_Revenue shows the various KPI's performance by revenue.
+user should be able to select which KPI is to be shown in x-axis like OD,Airline etc.Sort the values in descending order.
+chart type bar chart. Use the attached image as refrence.
+
+
+Combine all graphs in a single page. Share the code and output screenshot as well.

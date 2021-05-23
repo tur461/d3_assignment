@@ -1,0 +1,185 @@
+{
+    "name": "Tickets Sold",
+    "children": [
+      
+     {
+      "name": "Africa",
+      "children": [
+       {"name": "Angola","value": 328},
+       {"name":"Benin","value":147.6},
+       {"name":"Burundi","value":676},
+       {"name":"Cameroon","value":706.4},
+       {"name":"Egypt","value":293},
+       {"name":"Ethiopia","value":321.2},
+       {"name":"Gambia","value":343.8},
+       {"name":"Ghana","value":230.2},
+       {"name":"Guinea","value":299.4},
+       {"name":"Kenya","value":299.6},
+       {"name":"Liberia","value":328.4},
+       {"name":"Morocco","value":267},
+       {"name":"Niger","value":313},
+       {"name":"Nigeria","value":539.6},
+       {"name":"Rwanda","value":194.4},
+       {"name":"Sao Tome and Principe","value":353.6},
+       {"name":"Senegal","value":273.6},
+       {"name":"Sierra Leone","value":302.4},
+       {"name":"South Africa","value":367},
+       {"name":"Tanzania","value":533.6},
+       {"name":"Togo","value":390.8},
+       {"name":"Uganda","value":371.2},
+       {"name":"Zambia","value":366},
+       {"name":"Zimbabwe","value":159.4}
+   
+      ]
+     },
+     {
+       "name": "Asia",
+       "children": [
+           {"name":"Bahrain","value":254.4},
+           {"name":"Cambodia","value":266},
+           {"name":"China","value":1120},
+           {"name":"India","value":1168.8},
+           {"name":"Israel","value":277.2},
+           {"name":"Japan","value":2692},
+           {"name":"Jordan","value":328},
+           {"name":"Kazakhstan","value":568},
+           {"name":"Kuwait","value":276},
+           {"name":"Malaysia","value":502},
+           {"name":"Oman","value":403},
+           {"name":"Pakistan","value":593},
+           {"name":"Philippines","value":293.8},
+           {"name":"Saudi Arabia","value":612.4},
+           {"name":"Singapore","value":398.4},
+           {"name":"Sri Lanka","value":321.6},
+           {"name":"Thailand","value":379.2},
+           {"name":"Turkey","value":236.8},
+           {"name":"Turkmenistan","value":301.2},
+           {"name":"United Arab Emirates","value":477.2},
+           {"name":"Vietnam","value":529.6}
+          
+    
+       ]
+      },
+      {
+       "name": "Europe",
+       "children": [
+           {"name":"Armenia","value":260},
+           {"name":"Austria","value":290.4},
+           {"name":"Azerbaijan","value":202.8},
+           {"name":"Belgium","value":290.4},
+           {"name":"Bulgaria","value":327.6},
+           {"name":"Croatia","value":319.2},
+           {"name":"Cyprus","value":248.8},
+           {"name":"Czech Republic","value":224},
+           {"name":"Denmark","value":262.8},
+           {"name":"Finland","value":283.6},
+           {"name":"France","value":2312.4},
+           {"name":"Germany","value":210.4},
+           {"name":"Greece","value":232.4},
+           {"name":"Hungary","value":242.4},
+           {"name":"Ireland","value":580},
+           {"name":"Italy","value":1630},
+           {"name":"Luxembourg","value":306},
+           {"name":"Netherlands","value":584.4},
+           {"name":"Norway","value":811.2},
+           {"name":"Poland","value":207.2},
+           {"name":"Portugal","value":283.2},
+           {"name":"Romania","value":367.8},
+           {"name":"Slovakia","value":358.8},
+           {"name":"Spain","value":1076.8},
+           {"name":"Sweden","value":622.6},
+           {"name":"Switzerland","value":601.6},
+           {"name":"United Kingdom","value":3949.6}
+       
+    
+       ]
+      },
+      {
+       "name": "North America",
+       "children": [
+           {"name":"Antigua and Barbuda","value":219.2},
+           {"name":"Bahamas","value":2652.4},
+           {"name":"Barbados","value":211.2},
+           {"name":"Belize","value":308},
+           {"name":"Canada","value":5338.4},
+           {"name":"Costa Rica","value":584.8},
+           {"name":"Dominica","value":314.4},
+           {"name":"Dominican Republic","value":1698.4},
+           {"name":"El Salvador","value":224},
+           {"name":"Grenada","value":200.8},
+           {"name":"Guatemala","value":290.4},
+           {"name":"Haiti","value":327.6},
+           {"name":"Honduras","value":786.8},
+           {"name":"Jamaica","value":638.8},
+           {"name":"Mexico","value":1940.6},
+           {"name":"Nicaragua","value":319.6},
+           {"name":"Panama","value":292.8},
+           {"name":"Saint Kitts and Nevis","value":274.4},
+           {"name":"Saint Lucia","value":244},
+           {"name":"Trinidad and Tobago","value":279.6},
+           {"name":"United States","value":13161.6}   
+    
+       ]
+      },
+      {
+       "name": "Oceania",
+       "children": [
+           {"name":"Australia","value":234.4},
+           {"name":"Fiji","value":364},
+           {"name":"Marshall Islands","value":532},
+           {"name":"Micronesia","value":1190},
+           {"name":"New Zealand","value":498.8},
+           {"name":"Palau","value":262.4}
+   
+    
+       ]
+      },
+      {
+       "name": "South America",
+       "children": [
+           {"name":"Argentina","value":346.8},
+           {"name":"Bolivia","value":572.4},
+           {"name":"Brazil","value":2324},
+           {"name":"Chile","value":806},
+           {"name":"Colombia","value":1158},
+           {"name":"Ecuador","value":934},
+           {"name":"Paraguay","value":356.8},
+           {"name":"Peru","value":764},
+           {"name":"Uruguay","value":418.4},
+           {"name":"Venezuela","value":702.4}
+   
+    
+       ]
+      },
+      {
+       "name": "Unknown",
+       "children": [
+           {"name":"American Samoa","value":277.2},
+           {"name":"Aruba","value":153.6},
+           {"name":"Bermuda","value":212},
+           {"name":"British Virgin Islands","value":530.8},
+           {"name":"Burkina Faso","value":431.6},
+           {"name":"Cayman Islands","value":256.4},
+           {"name":"Congo (Kinshasa)","value":251.2},
+           {"name":"Cote d'Ivoire","value":264.8},
+           {"name":"French Polynesia","value":224.4},
+           {"name":"Gibraltar","value":308.4},
+           {"name":"Guadeloupe","value":330.4},
+           {"name":"Guam","value":326},
+           {"name":"Hong Kong","value":228},
+           {"name":"Martinique","value":220.2},
+           {"name":"Netherlands Antilles","value":714.4},
+           {"name":"Northern Mariana Islands","value":532.8},
+           {"name":"Puerto Rico","value":144.8},
+           {"name":"Russia","value":940},
+           {"name":"South Korea","value":696},
+           {"name":"Taiwan","value":632.8},
+           {"name":"Turks and Caicos Islands","value":271.6},
+           {"name":"Virgin Islands","value":548}
+   
+       ]
+      }
+   
+    ]
+   }
+   

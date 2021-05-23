@@ -1,0 +1,61 @@
+OD,Airline,ExpectedPAX,PAX
+AEROMEXICO,Airline,450,450
+WestJet,Airline,490,490
+American Airlines,Airline,500,500
+South West,Airline,486,486
+JetBlue,Airline,550,550
+United Airlines,Airline,250,250
+Air Canada,Airline,470,470
+Delta Air,Airline,510,510
+British Airways,Airline,520,520
+Alaska Airlines,Airline,506,506
+EIS-ACV,OD,570,570
+LAW-ANU,OD,270,270
+ROR-ATW,OD,490,490
+LNK-BHD,OD,530,530
+EWR-BRD,OD,540,540
+CHO-CHC,OD,526,526
+BJM-HNL,OD,590,590
+BJX-MSP,OD,290,290
+VLD-OGG,OD,510,510
+YYJ-SHV,OD,550,550
+TA1,Agency,560,560
+TA2,Agency,546,546
+TA3,Agency,610,610
+TA4,Agency,310,310
+TA5,Agency,490,
+TA6,Agency,500,
+TA7,Agency,486,
+TA8,Agency,550,
+TA9,Agency,250,
+TA10,Agency,470,
+POS1,POS,510,
+POS2,POS,520,
+POS3,POS,506,
+POS4,POS,570,
+POS5,POS,270,
+POS6,POS,490,
+POS7,POS,530,
+POS8,POS,540,
+POS9,POS,526,
+POS10,POS,590,
+POO1,POO,290,
+POO2,POO,510,
+POO3,POO,550,
+POO4,POO,560,
+POO5,POO,546,
+POO6,POO,610,
+POO7,POO,310,
+POO8,POO,490,
+POO9,POO,500,
+POO10,POO,486,
+Distribution Channel1,Distribution Channel,550,
+Distribution Channel2,Distribution Channel,250,
+Distribution Channel3,Distribution Channel,470,
+Distribution Channel4,Distribution Channel,510,
+Distribution Channel5,Distribution Channel,520,
+Distribution Channel6,Distribution Channel,506,
+Distribution Channel7,Distribution Channel,570,
+Distribution Channel8,Distribution Channel,270,
+Distribution Channel9,Distribution Channel,490,
+Distribution Channel10,Distribution Channel,530,
